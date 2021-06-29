@@ -20,3 +20,5 @@ Writing about tech can be just as important as making it. Developers spend plent
 - MySql
 - Express
 - Path
+- Bcrypt
+- Sequelize
